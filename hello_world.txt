@@ -1,0 +1,2 @@
+Hello, this is my first time using Git and Github.
+It is currently Sunday, 21st of January 2024.
